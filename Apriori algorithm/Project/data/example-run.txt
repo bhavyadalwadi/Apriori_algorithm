@@ -1,0 +1,340 @@
+==Large itemsets (min_sup=2%)
+[RESIDENTIAL BUILDING], 0.376787251523
+[HPD], 0.376787251523
+[HPD,RESIDENTIAL BUILDING], 0.376787251523
+[DOT], 0.18780336658
+[QUEENS], 0.18391130129
+[BROOKLYN], 0.177683436009
+[HEATING], 0.133373338231
+[HEATING,RESIDENTIAL BUILDING], 0.133373338231
+[HPD,HEATING], 0.133373338231
+[HPD,HEATING,RESIDENTIAL BUILDING], 0.133373338231
+[MANHATTAN], 0.128401701517
+[Street], 0.108658162822
+[January], 0.106930848543
+[December], 0.0949349873676
+[DEP], 0.0945788690017
+[NYPD], 0.0886005669853
+[October], 0.086662946585
+[March], 0.0857207751603
+[DSNY], 0.0822465180316
+[February], 0.0819240486452
+[August], 0.081237048648
+[BRONX], 0.0797705139601
+[April], 0.0797172364093
+[June], 0.0793667262067
+[July], 0.0791928731462
+[November], 0.0774150853983
+[May], 0.0750007711224
+[Street Light Condition], 0.0736828527605
+[DOT,Street Light Condition], 0.0736828527605
+[DOB], 0.0720761139915
+[September], 0.0718966527678
+[Street/Sidewalk], 0.0686439180872
+[NYPD,Street/Sidewalk], 0.0686439180872
+[GENERAL CONSTRUCTION], 0.0683018201294
+[GENERAL CONSTRUCTION,RESIDENTIAL BUILDING], 0.0683018201294
+[HPD,GENERAL CONSTRUCTION], 0.0683018201294
+[HPD,GENERAL CONSTRUCTION,RESIDENTIAL BUILDING], 0.0683018201294
+[PLUMBING], 0.0590062895551
+[PLUMBING,RESIDENTIAL BUILDING], 0.0590062895551
+[HPD,PLUMBING], 0.0590062895551
+[HPD,PLUMBING,RESIDENTIAL BUILDING], 0.0590062895551
+[Street Condition], 0.0574051589494
+[DOT,Street Condition], 0.0574051589494
+[January,RESIDENTIAL BUILDING], 0.0571331630321
+[January,HPD], 0.0571331630321
+[January,HPD,RESIDENTIAL BUILDING], 0.0571331630321
+[DOT,QUEENS], 0.0561685589544
+[DOT,BROOKLYN], 0.0535187018224
+[December,RESIDENTIAL BUILDING], 0.0520044977469
+[December,HPD], 0.0520044977469
+[December,HPD,RESIDENTIAL BUILDING], 0.0520044977469
+[Sidewalk], 0.0481685140891
+[PAINT - PLASTER], 0.0468646161352
+[PAINT - PLASTER,RESIDENTIAL BUILDING], 0.0468646161352
+[HPD,PAINT - PLASTER], 0.0468646161352
+[HPD,PAINT - PLASTER,RESIDENTIAL BUILDING], 0.0468646161352
+[DSNY,Sidewalk], 0.0443605712475
+[STATEN ISLAND], 0.0435950569649
+[DOT,Street], 0.04194345289
+[NONCONST], 0.0383738569862
+[NONCONST,RESIDENTIAL BUILDING], 0.0383738569862
+[HPD,NONCONST], 0.0383738569862
+[HPD,NONCONST,RESIDENTIAL BUILDING], 0.0383738569862
+[DPR], 0.0378410814782
+[October,RESIDENTIAL BUILDING], 0.0371400610729
+[October,HPD], 0.0371400610729
+[October,HPD,RESIDENTIAL BUILDING], 0.0371400610729
+[DOT,MANHATTAN], 0.035858595772
+[November,RESIDENTIAL BUILDING], 0.0355052814877
+[November,HPD], 0.0355052814877
+[November,HPD,RESIDENTIAL BUILDING], 0.0355052814877
+[Water System], 0.0351379467954
+[DEP,Water System], 0.0351379467954
+[February,RESIDENTIAL BUILDING], 0.0343359794517
+[February,HPD], 0.0343359794517
+[February,HPD,RESIDENTIAL BUILDING], 0.0343359794517
+[General Construction/Plumbing], 0.0342574651663
+[DOB,General Construction/Plumbing], 0.0342574651663
+[Traffic Signal Condition], 0.0342210121052
+[DOT,Traffic Signal Condition], 0.0342210121052
+[Street,QUEENS], 0.0332844488437
+[March,RESIDENTIAL BUILDING], 0.0321712284401
+[March,HPD], 0.0321712284401
+[March,HPD,RESIDENTIAL BUILDING], 0.0321712284401
+[January,HEATING], 0.0316805141564
+[January,HEATING,RESIDENTIAL BUILDING], 0.0316805141564
+[January,HPD,HEATING], 0.0316805141564
+[January,HPD,HEATING,RESIDENTIAL BUILDING], 0.0316805141564
+[DPR,Street], 0.0309570610981
+[Street,BROOKLYN], 0.0302448243663
+[Blocked Driveway], 0.0289353182492
+[Blocked Driveway,Street/Sidewalk], 0.0289353182492
+[NYPD,Blocked Driveway], 0.0289353182492
+[NYPD,Blocked Driveway,Street/Sidewalk], 0.0289353182492
+[December,HEATING], 0.0281613917218
+[December,HEATING,RESIDENTIAL BUILDING], 0.0281613917218
+[December,HPD,HEATING], 0.0281613917218
+[December,HPD,HEATING,RESIDENTIAL BUILDING], 0.0281613917218
+[Sewer], 0.0278052733559
+[DEP,Sewer], 0.0278052733559
+[DEP,QUEENS], 0.0276846978462
+[NYPD,BROOKLYN], 0.0273313835619
+[DSNY,BROOKLYN], 0.0268238447885
+[Street Condition,Street], 0.0264340774431
+[DOT,Street Condition,Street], 0.0264340774431
+[DOHMH], 0.0259153223432
+[DSNY,QUEENS], 0.0258984978535
+[DEP,BROOKLYN], 0.025576028467
+[Street,MANHATTAN], 0.0253713305087
+[April,RESIDENTIAL BUILDING], 0.0246226407158
+[April,HPD], 0.0246226407158
+[April,HPD,RESIDENTIAL BUILDING], 0.0246226407158
+[Street Light Condition,QUEENS], 0.0245385182672
+[DOT,Street Light Condition,QUEENS], 0.0245385182672
+[DOB,QUEENS], 0.0245076733694
+[DOT,BRONX], 0.0238935794943
+[August,RESIDENTIAL BUILDING], 0.0232850937825
+[August,HPD], 0.0232850937825
+[August,HPD,RESIDENTIAL BUILDING], 0.0232850937825
+[NYPD,QUEENS], 0.0232093835787
+[DSNY,Street], 0.0230215101101
+[Dirty Conditions], 0.0229401917431
+[DSNY,Dirty Conditions], 0.0229401917431
+[Street/Sidewalk,BROOKLYN], 0.0221466366443
+[NYPD,Street/Sidewalk,BROOKLYN], 0.0221466366443
+[NYPD,MANHATTAN], 0.0220512978692
+[DEP,MANHATTAN], 0.0216419019525
+[ELECTRIC], 0.0215970366465
+[ELECTRIC,RESIDENTIAL BUILDING], 0.0215970366465
+[HPD,ELECTRIC], 0.0215970366465
+[HPD,ELECTRIC,RESIDENTIAL BUILDING], 0.0215970366465
+[Street Light Condition,BROOKLYN], 0.0210446325672
+[DOT,Street Light Condition,BROOKLYN], 0.0210446325672
+[September,RESIDENTIAL BUILDING], 0.0206885142013
+[September,HPD], 0.0206885142013
+[September,HPD,RESIDENTIAL BUILDING], 0.0206885142013
+[July,RESIDENTIAL BUILDING], 0.0206128039975
+[July,HPD], 0.0206128039975
+[July,HPD,RESIDENTIAL BUILDING], 0.0206128039975
+[DOB,BROOKLYN], 0.0205286815489
+
+
+==High-confidence association rules (min_conf=10%)
+[Street Condition] => [DOT](Conf: 100%, Supp: 6%)
+[ELECTRIC] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 2%)
+[ELECTRIC] => [HPD](Conf: 100%, Supp: 2%)
+[GENERAL CONSTRUCTION] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 7%)
+[GENERAL CONSTRUCTION] => [HPD](Conf: 100%, Supp: 7%)
+[Blocked Driveway] => [Street/Sidewalk](Conf: 100%, Supp: 3%)
+[Street/Sidewalk] => [NYPD](Conf: 100%, Supp: 7%)
+[General Construction/Plumbing] => [DOB](Conf: 100%, Supp: 3%)
+[Blocked Driveway] => [NYPD](Conf: 100%, Supp: 3%)
+[PLUMBING] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 6%)
+[PAINT - PLASTER] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 5%)
+[RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 38%)
+[HPD] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 38%)
+[HEATING] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 13%)
+[NONCONST] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 4%)
+[PLUMBING] => [HPD](Conf: 100%, Supp: 6%)
+[PAINT - PLASTER] => [HPD](Conf: 100%, Supp: 5%)
+[HEATING] => [HPD](Conf: 100%, Supp: 13%)
+[NONCONST] => [HPD](Conf: 100%, Supp: 4%)
+[Dirty Conditions] => [DSNY](Conf: 100%, Supp: 2%)
+[Traffic Signal Condition] => [DOT](Conf: 100%, Supp: 3%)
+[Street Light Condition] => [DOT](Conf: 100%, Supp: 7%)
+[Water System] => [DEP](Conf: 100%, Supp: 4%)
+[Sewer] => [DEP](Conf: 100%, Supp: 3%)
+[October,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 4%)
+[October,HPD] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 4%)
+[Street Condition,Street] => [DOT](Conf: 100%, Supp: 3%)
+[January,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 6%)
+[January,HPD] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 6%)
+[January,HEATING] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 3%)
+[January,HEATING] => [HPD](Conf: 100%, Supp: 3%)
+[ELECTRIC,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 2%)
+[HPD,ELECTRIC] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 2%)
+[GENERAL CONSTRUCTION,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 7%)
+[HPD,GENERAL CONSTRUCTION] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 7%)
+[Blocked Driveway,Street/Sidewalk] => [NYPD](Conf: 100%, Supp: 3%)
+[NYPD,Blocked Driveway] => [Street/Sidewalk](Conf: 100%, Supp: 3%)
+[Street/Sidewalk,BROOKLYN] => [NYPD](Conf: 100%, Supp: 2%)
+[August,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 2%)
+[August,HPD] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 2%)
+[March,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 3%)
+[March,HPD] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 3%)
+[February,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 3%)
+[February,HPD] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 3%)
+[PLUMBING,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 6%)
+[HPD,PLUMBING] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 6%)
+[PAINT - PLASTER,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 5%)
+[HPD,PAINT - PLASTER] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 5%)
+[HEATING,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 13%)
+[HPD,HEATING] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 13%)
+[NONCONST,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 4%)
+[HPD,NONCONST] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 4%)
+[December,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 5%)
+[December,HPD] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 5%)
+[December,HEATING] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 3%)
+[April,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 2%)
+[April,HPD] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 2%)
+[September,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 2%)
+[September,HPD] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 2%)
+[July,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 2%)
+[July,HPD] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 2%)
+[November,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 4%)
+[November,HPD] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 4%)
+[Street Light Condition,BROOKLYN] => [DOT](Conf: 100%, Supp: 2%)
+[Street Light Condition,QUEENS] => [DOT](Conf: 100%, Supp: 2%)
+[December,HEATING] => [HPD](Conf: 100%, Supp: 3%)
+[January,HEATING,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 3%)
+[January,HPD,HEATING] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 3%)
+[December,HEATING,RESIDENTIAL BUILDING] => [HPD](Conf: 100%, Supp: 3%)
+[December,HPD,HEATING] => [RESIDENTIAL BUILDING](Conf: 100%, Supp: 3%)
+[Sidewalk] => [DSNY](Conf: 92%, Supp: 4%)
+[DPR] => [Street](Conf: 82%, Supp: 3%)
+[NYPD,BROOKLYN] => [Street/Sidewalk](Conf: 81%, Supp: 2%)
+[NYPD] => [Street/Sidewalk](Conf: 77%, Supp: 7%)
+[DOT,Street] => [Street Condition](Conf: 63%, Supp: 3%)
+[January,RESIDENTIAL BUILDING] => [HEATING](Conf: 55%, Supp: 3%)
+[January,HPD] => [HEATING](Conf: 55%, Supp: 3%)
+[January,HPD,RESIDENTIAL BUILDING] => [HEATING](Conf: 55%, Supp: 3%)
+[December] => [RESIDENTIAL BUILDING](Conf: 55%, Supp: 5%)
+[December] => [HPD](Conf: 55%, Supp: 5%)
+[December,RESIDENTIAL BUILDING] => [HEATING](Conf: 54%, Supp: 3%)
+[December,HPD] => [HEATING](Conf: 54%, Supp: 3%)
+[December,HPD,RESIDENTIAL BUILDING] => [HEATING](Conf: 54%, Supp: 3%)
+[DSNY] => [Sidewalk](Conf: 54%, Supp: 4%)
+[January] => [RESIDENTIAL BUILDING](Conf: 53%, Supp: 6%)
+[January] => [HPD](Conf: 53%, Supp: 6%)
+[DOB] => [General Construction/Plumbing](Conf: 48%, Supp: 3%)
+[Street Condition] => [Street](Conf: 46%, Supp: 3%)
+[DOT,Street Condition] => [Street](Conf: 46%, Supp: 3%)
+[November] => [RESIDENTIAL BUILDING](Conf: 46%, Supp: 4%)
+[November] => [HPD](Conf: 46%, Supp: 4%)
+[DOT,QUEENS] => [Street Light Condition](Conf: 44%, Supp: 2%)
+[October] => [RESIDENTIAL BUILDING](Conf: 43%, Supp: 4%)
+[October] => [HPD](Conf: 43%, Supp: 4%)
+[Street/Sidewalk] => [Blocked Driveway](Conf: 42%, Supp: 3%)
+[NYPD,Street/Sidewalk] => [Blocked Driveway](Conf: 42%, Supp: 3%)
+[February] => [RESIDENTIAL BUILDING](Conf: 42%, Supp: 3%)
+[February] => [HPD](Conf: 42%, Supp: 3%)
+[DOT,BROOKLYN] => [Street Light Condition](Conf: 39%, Supp: 2%)
+[DOT] => [Street Light Condition](Conf: 39%, Supp: 7%)
+[Street] => [DOT](Conf: 39%, Supp: 4%)
+[March] => [RESIDENTIAL BUILDING](Conf: 38%, Supp: 3%)
+[March] => [HPD](Conf: 38%, Supp: 3%)
+[DEP] => [Water System](Conf: 37%, Supp: 4%)
+[RESIDENTIAL BUILDING] => [HEATING](Conf: 35%, Supp: 13%)
+[HPD] => [HEATING](Conf: 35%, Supp: 13%)
+[HPD,RESIDENTIAL BUILDING] => [HEATING](Conf: 35%, Supp: 13%)
+[DOB] => [QUEENS](Conf: 34%, Supp: 2%)
+[Street Light Condition] => [QUEENS](Conf: 33%, Supp: 2%)
+[DOT,Street Light Condition] => [QUEENS](Conf: 33%, Supp: 2%)
+[NYPD] => [Blocked Driveway](Conf: 33%, Supp: 3%)
+[DSNY] => [BROOKLYN](Conf: 33%, Supp: 3%)
+[Street/Sidewalk] => [BROOKLYN](Conf: 32%, Supp: 2%)
+[NYPD,Street/Sidewalk] => [BROOKLYN](Conf: 32%, Supp: 2%)
+[DSNY] => [QUEENS](Conf: 31%, Supp: 3%)
+[April] => [RESIDENTIAL BUILDING](Conf: 31%, Supp: 2%)
+[April] => [HPD](Conf: 31%, Supp: 2%)
+[NYPD] => [BROOKLYN](Conf: 31%, Supp: 3%)
+[Street] => [QUEENS](Conf: 31%, Supp: 3%)
+[DOT] => [Street Condition](Conf: 31%, Supp: 6%)
+[QUEENS] => [DOT](Conf: 31%, Supp: 6%)
+[BROOKLYN] => [DOT](Conf: 30%, Supp: 5%)
+[BRONX] => [DOT](Conf: 30%, Supp: 2%)
+[DOT] => [QUEENS](Conf: 30%, Supp: 6%)
+[December] => [HEATING](Conf: 30%, Supp: 3%)
+[January] => [HEATING](Conf: 30%, Supp: 3%)
+[DEP] => [Sewer](Conf: 29%, Supp: 3%)
+[DEP] => [QUEENS](Conf: 29%, Supp: 3%)
+[September] => [RESIDENTIAL BUILDING](Conf: 29%, Supp: 2%)
+[September] => [HPD](Conf: 29%, Supp: 2%)
+[August] => [RESIDENTIAL BUILDING](Conf: 29%, Supp: 2%)
+[August] => [HPD](Conf: 29%, Supp: 2%)
+[Street Light Condition] => [BROOKLYN](Conf: 29%, Supp: 2%)
+[DOT,Street Light Condition] => [BROOKLYN](Conf: 29%, Supp: 2%)
+[DOT] => [BROOKLYN](Conf: 28%, Supp: 5%)
+[Street] => [DPR](Conf: 28%, Supp: 3%)
+[DOB] => [BROOKLYN](Conf: 28%, Supp: 2%)
+[DSNY] => [Street](Conf: 28%, Supp: 2%)
+[MANHATTAN] => [DOT](Conf: 28%, Supp: 4%)
+[DSNY] => [Dirty Conditions](Conf: 28%, Supp: 2%)
+[Street] => [BROOKLYN](Conf: 28%, Supp: 3%)
+[DEP] => [BROOKLYN](Conf: 27%, Supp: 3%)
+[NYPD] => [QUEENS](Conf: 26%, Supp: 2%)
+[July] => [RESIDENTIAL BUILDING](Conf: 26%, Supp: 2%)
+[July] => [HPD](Conf: 26%, Supp: 2%)
+[NYPD] => [MANHATTAN](Conf: 25%, Supp: 2%)
+[Street] => [Street Condition](Conf: 24%, Supp: 3%)
+[HEATING] => [January](Conf: 24%, Supp: 3%)
+[HEATING,RESIDENTIAL BUILDING] => [January](Conf: 24%, Supp: 3%)
+[HPD,HEATING] => [January](Conf: 24%, Supp: 3%)
+[HPD,HEATING,RESIDENTIAL BUILDING] => [January](Conf: 24%, Supp: 3%)
+[Street] => [MANHATTAN](Conf: 23%, Supp: 3%)
+[DEP] => [MANHATTAN](Conf: 23%, Supp: 2%)
+[DOT] => [Street](Conf: 22%, Supp: 4%)
+[Street] => [DSNY](Conf: 21%, Supp: 2%)
+[HEATING] => [December](Conf: 21%, Supp: 3%)
+[HEATING,RESIDENTIAL BUILDING] => [December](Conf: 21%, Supp: 3%)
+[HPD,HEATING] => [December](Conf: 21%, Supp: 3%)
+[HPD,HEATING,RESIDENTIAL BUILDING] => [December](Conf: 21%, Supp: 3%)
+[MANHATTAN] => [Street](Conf: 20%, Supp: 3%)
+[DOT] => [MANHATTAN](Conf: 19%, Supp: 4%)
+[DOT] => [Traffic Signal Condition](Conf: 18%, Supp: 3%)
+[RESIDENTIAL BUILDING] => [GENERAL CONSTRUCTION](Conf: 18%, Supp: 7%)
+[HPD] => [GENERAL CONSTRUCTION](Conf: 18%, Supp: 7%)
+[HPD,RESIDENTIAL BUILDING] => [GENERAL CONSTRUCTION](Conf: 18%, Supp: 7%)
+[QUEENS] => [Street](Conf: 18%, Supp: 3%)
+[MANHATTAN] => [NYPD](Conf: 17%, Supp: 2%)
+[BROOKLYN] => [Street](Conf: 17%, Supp: 3%)
+[MANHATTAN] => [DEP](Conf: 17%, Supp: 2%)
+[RESIDENTIAL BUILDING] => [PLUMBING](Conf: 16%, Supp: 6%)
+[HPD] => [PLUMBING](Conf: 16%, Supp: 6%)
+[HPD,RESIDENTIAL BUILDING] => [PLUMBING](Conf: 16%, Supp: 6%)
+[BROOKLYN] => [NYPD](Conf: 15%, Supp: 3%)
+[RESIDENTIAL BUILDING] => [January](Conf: 15%, Supp: 6%)
+[HPD] => [January](Conf: 15%, Supp: 6%)
+[HPD,RESIDENTIAL BUILDING] => [January](Conf: 15%, Supp: 6%)
+[BROOKLYN] => [DSNY](Conf: 15%, Supp: 3%)
+[QUEENS] => [DEP](Conf: 15%, Supp: 3%)
+[BROOKLYN] => [DEP](Conf: 14%, Supp: 3%)
+[QUEENS] => [DSNY](Conf: 14%, Supp: 3%)
+[RESIDENTIAL BUILDING] => [December](Conf: 14%, Supp: 5%)
+[HPD] => [December](Conf: 14%, Supp: 5%)
+[HPD,RESIDENTIAL BUILDING] => [December](Conf: 14%, Supp: 5%)
+[QUEENS] => [Street Light Condition](Conf: 13%, Supp: 2%)
+[QUEENS] => [DOB](Conf: 13%, Supp: 2%)
+[DOT] => [BRONX](Conf: 13%, Supp: 2%)
+[QUEENS] => [NYPD](Conf: 13%, Supp: 2%)
+[BROOKLYN] => [Street/Sidewalk](Conf: 12%, Supp: 2%)
+[RESIDENTIAL BUILDING] => [PAINT - PLASTER](Conf: 12%, Supp: 5%)
+[HPD] => [PAINT - PLASTER](Conf: 12%, Supp: 5%)
+[HPD,RESIDENTIAL BUILDING] => [PAINT - PLASTER](Conf: 12%, Supp: 5%)
+[BROOKLYN] => [Street Light Condition](Conf: 12%, Supp: 2%)
+[BROOKLYN] => [DOB](Conf: 12%, Supp: 2%)
+[RESIDENTIAL BUILDING] => [NONCONST](Conf: 10%, Supp: 4%)
+[HPD] => [NONCONST](Conf: 10%, Supp: 4%)
+[HPD,RESIDENTIAL BUILDING] => [NONCONST](Conf: 10%, Supp: 4%)
